@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+body{
+	background-color:black;
+}
+.container{
+	width:81%;
+	margin:9%;
+	background-color:grey;
+	border:1px grey solid;
+}
+h1{
+	color:white;
+	text-align:center;
+	font-family:monospace;
+}
+img{
+	width:27%;
+	border-radius:30px;
+	padding:20px;
+}
